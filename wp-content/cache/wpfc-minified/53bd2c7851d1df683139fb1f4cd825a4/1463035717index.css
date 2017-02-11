@@ -1,0 +1,14 @@
+.parallax-layer {
+height: 100%;
+width: 100%;
+background-position: 50% 50%;
+background-repeat: repeat-y;
+background-attachment: fixed !important;
+background-size: cover !important;
+overflow-x: hidden !important;
+} .parallax-off {
+background-attachment:scroll !important;
+background-size:cover !important;
+background-position: center center !important;
+background-repeat: no-repeat !important;
+}
