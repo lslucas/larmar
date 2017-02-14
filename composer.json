@@ -1,7 +1,7 @@
 {
     "require": {
-        "hhvm": "3.2",
-        "php": "~7.0.3",
+        "hhvm": "~3.3",
+        "php": "~7.1",
         "ext-gd": "*",
         "ext-mbstring": "*"
     }
